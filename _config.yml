@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nate"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "개발자가 되고싶은 개발자"
+  location         : "Suwon, South Korea"
+  email            : "softmaster1993@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
