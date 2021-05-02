@@ -19,6 +19,7 @@ last_modified_at: 2021-05-02T14:47:00
     - [정도](#degree)
     - [비교](#comparing)
     - [인과관계](#results-and-reasons)
+3. [연습문제1](#(Practice---1)-Underline-the-best-word-on-phrase.)
 
 ## 영어의 문장 구조(3가지)
 : 일단 영어 문장 구조는 단문, 중문, 복문으로 구분할 수 있습니다.
@@ -82,7 +83,7 @@ last_modified_at: 2021-05-02T14:47:00
     - __To a certain extent__, I agree with you.
     - This solution is, __to a certain extent__, easy to understand.
 
-2. In some respects / ways: 전, 후에 오는 문장을 제한할때 사용하는 연결어
+2. In some respects / ways: 전, 후에 오는 문장을 제한할때 사용하는 연결어(: 어느점에서는)
     - Some people argue that the only solution to the problem of global warming is new technology. __In some respects__, this is true.
     - Some people argue that the only solution to the problem of global warming is new technology. __In some respects__, the development of non-polluting fuels might solve part of the problem.
 
@@ -129,3 +130,25 @@ last_modified_at: 2021-05-02T14:47:00
 
 6. Due to: owing to와 의미는 동일하다. be 동사 뒤에 나올 수 있다.
     - Her retirement from professional tennis was __due to__ a foot injury.
+
+#### (Practice - 1) Underline the best word on phrase.
+
+1. Flights abroad are becoming cheaper, `although / however` most people are aware of the damage they cause to the environment.
+
+2. The beach is mainly *pebbles*, but `at least / in the same way` it is fairly clean.(*pebbles*: 자갈)
+
+3. Wilson was dismissed from his job, `in addition to / on account of` the seriousness of his offence.
+
+4. Huygen's astronomical observations required an exact *means* of measuring time, and he was `thus / nevertheless` led in 1656 to invent the pendulum clock.(*means*: 수단)
+
+5. Students are often taught to think effectively. `However / As a result`,  they can become overwhelmed with information, as they cannot see the wood for the trees.
+
+6. Alcohol drinking is strongly associated with the risk of liver cancer. `Moreover / None the less`, there is some evidence suggesting that heavy alcohol consumption is particularly strongly associated with liver cancer among smokers.
+
+7. Patience is not passive; `on the other hand / on the contrary` it is active; it is concentrated strength.
+
+8. This Mary Lousia Smith's marriage certificate is dated 4 June 1867. `Accordingly / In the same way`, she cannot be the Mary Lousia Smith born in Liverpool on 12 November 1860.
+
+9. Doctors concluded that the patient's *erratic* behavior was probably `besides / due to ` the *mild concussion* she suffered in the accident.(*erratic*: 예측불가능한, *mild concussion*: 가벼운 뇌진탕)
+
+10. *Red dwarf stars* fuse hydrogen and helium, but the fusion is slow because of the low temperature at the core of the star. `Consequently / In some respects`, these stars *give off* very little light. (*red dwarf stars*: 적색외성, *give off*: 내다, 풍기다.)
