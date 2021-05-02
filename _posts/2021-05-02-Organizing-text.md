@@ -11,9 +11,6 @@ last_modified_at: 2021-05-02T14:47:00
 
 작문을 할 때 알아두면 큰 도움이 되는 연결어에 대해 정리해두려고 한다.
 
-일단 영어 문장 구조는 단문, 중문, 복문으로 구분할 수 있습니다.
-복문은 단문, 중문과 다르게 어떤 문장구조를 택하느냐에 따라 다양하게 문장이 구성될 수 있다.
-
 ## 목차
 1. [영어의 문장구조](#영어의-문장-구조(3가지))
 2. [연결어](#연결어)
@@ -21,8 +18,12 @@ last_modified_at: 2021-05-02T14:47:00
     - [대조, 양보절](#contrast-or-concession)
     - [정도](#degree)
     - [비교](#comparing)
+    - [인과관계](#results-and-reasons)
 
 ## 영어의 문장 구조(3가지)
+: 일단 영어 문장 구조는 단문, 중문, 복문으로 구분할 수 있습니다.
+복문은 단문, 중문과 다르게 어떤 문장구조를 택하느냐에 따라 다양하게 문장이 구성될 수 있다.
+
 1. S+V (Simple Sentence): 단문
 2. S+V = S+V (Compound Sentence): 중문
     - 대등 접속사(FANBOYS)를 사용하는 경우 - For, And, Nor, But, Or, Yet, So
@@ -88,4 +89,43 @@ last_modified_at: 2021-05-02T14:47:00
 #### comparing
 : 비교
 
-1.
+1. On the one hand ... (but / while) on the other hand: 반대되는 점을 소개할 때 사용한다.
+    - __On the one hand__, nuclear power does not add carbon to the atmosphere, __but on the other hand__ it presents other more serious pollution risks.
+
+2. On the contrary: 부정적인 문장 이후에 그 반대의 긍정적인 문장을 소개할 때 사용한다.
+    - The cost of electricity produced by nuclear power does not go down. __On the contrary__, clean-up costs mean that in the long term the cost increases substantially.
+
+3. Compared to, in comparison to / with: 문장의 시작, 끝에 사용하며, 반대의 상황에 대해 언급할때 사용한다.
+    - __In comparison to / Compared with__ last year, there has been some improvement.
+    - There has been some improvement __in comparison to / compared with__ last year.
+
+4. In the same way: 이전과 동일한 상황을 소개할 때 사용한다.
+    - Wave power generators use the *constant* movement of the waves to produce electricity. __In the same way__, *tidal* generators use the back and forward motion of the *tides*.
+    (*constant*: 끊임없는, *tidal*: 조수의, *tides*: 조력)
+    - __Similarly__, tidal generators use the back and forward motion of the tides.  
+
+5. (But) at least: 단점에 대해 이미 언급했는데도 불구하고 장점을 강조하기 위해서 사용한다.
+    - Wind turbines are noisy, __but at least__ they do not create air pollution.
+
+#### results and reasons
+: 인과 관계
+
+1. consequently, as a result (of)
+    - The house was left empty for several years and no maintenance was carried out. __Consequently / As a result__, it is now in a poor condition.
+    - __As a result of__ this *neglect*, it is now in a poor condition.(*neglect*: 소홀함)
+
+2. thus(formal)
+    - The locks on the front door had been changed. __Thus__, is was impossible for the estate agent to gain entrance to the house.
+    - It was __thus__ impossible to gain entrance to the house.
+
+3. accordingly(formal)
+    - Smith was away in Italy at the time of the attack. __Accordingly__, he could not have been responsible.
+
+4. Hence: 그 뒤에 나오는 단어들이 어떻게 이전에 있었던 것에 의해 설명되는지를 설명해준다.(: 이런 이유로)
+    - The city is the site of ancient spring and Roman bath; __hence__ the name Bath.
+
+5. On account of, owing to: 때문에라는 의미를 가진다.
+    - Maria had to retire from professional tennis __on account of / owing to__ a foot injury.
+
+6. Due to: owing to와 의미는 동일하다. be 동사 뒤에 나올 수 있다.
+    - Her retirement from professional tennis was __due to__ a foot injury.
