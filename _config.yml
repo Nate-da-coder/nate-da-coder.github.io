@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Nate"
   avatar           : "/assets/profile_nate.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발자가 되고싶은 개발자"
+  bio              : "항상 배고픈 개발자"
   location         : "Suwon, South Korea"
   email            : "softmaster1993@gmail.com"
   links:
