@@ -19,7 +19,7 @@ last_modified_at: 2021-05-02T14:47:00
     - [정도](#degree)
     - [비교](#comparing)
     - [인과관계](#results-and-reasons)
-3. [연습문제1](#(Practice---1)-Underline-the-best-word-on-phrase.)
+3. [연습문제1](#(Practice-1)-Underline-the-best-word-on-phrase.)
 
 ## 영어의 문장 구조(3가지)
 : 일단 영어 문장 구조는 단문, 중문, 복문으로 구분할 수 있습니다.
@@ -131,7 +131,7 @@ last_modified_at: 2021-05-02T14:47:00
 6. Due to: owing to와 의미는 동일하다. be 동사 뒤에 나올 수 있다.
     - Her retirement from professional tennis was __due to__ a foot injury.
 
-#### (Practice - 1) Underline the best word on phrase.
+#### (Practice 1) Underline the best word on phrase.
 
 1. Flights abroad are becoming cheaper, `although / however` most people are aware of the damage they cause to the environment.
 
