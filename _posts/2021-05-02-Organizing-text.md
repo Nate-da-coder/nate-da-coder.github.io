@@ -16,7 +16,11 @@ last_modified_at: 2021-05-02T14:47:00
 
 ## 목차
 1. [영어의 문장구조](#영어의-문장-구조(3가지))
-2. [연결어](#연결어) 
+2. [연결어](#연결어)
+    - [부연설명](#adding-a-point)
+    - [대조, 양보절](#contrast-or-concession)
+    - [정도](#degree)
+    - [비교](#comparing)
 
 ## 영어의 문장 구조(3가지)
 1. S+V (Simple Sentence): 단문
