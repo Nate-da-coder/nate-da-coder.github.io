@@ -28,6 +28,19 @@ last_modified_at: 2021-05-02T14:47:00
 #### adding a point
 : 부연 설명할 때 사용하는 연결어
 
-1. Also: is used to add a point within a sentence. It is not normally used as a connector at the beginning of a sentence in formal speech and writing.
-    - Cars *use up* valuable energy resources, and also pollute the environment.
+1. Also: 문장의 중간에 사용하지만 formal speech, writing에서는 대개 사용하지 않는다.
+    - Cars *use up* valuable energy resources, and __also__ pollute the environment.
     (use up: 다 써버린다.)
+
+2. As well as: 뒤에 명사 또는 동명사가 따라오고, 문장 서두에 쓰일 수도 있다.
+    - Cars use up valuable energy resources, __as well as__ polluting the environment.
+    - __As well as__ polluting the environment, cars use up valuable energy resources.
+
+3. As well as this로 문장을 연결하면서 이전 문장을 끌고 와주는 역할을 할 수 있다.
+    - Cars use up valuable energy resources, and also pollute the environment. __As well as this__, they make life unpleasant in big cities.
+
+4. In addition: 비슷한 생각을 추가해서 말할 때 사용한다.
+    - Cars use up valuable energy resources, and also pollute the environment. __In addition__, they make life unpleasant in big cities.
+
+5. Moreover, furthermore, what is more: 부연할 점을 좀더 formal 하게 이어주고 싶을 때 사용한다.  
+    - Cars use up valuable energy resources, and also pollute the environment. __Moreover/Furthermore/What is more__, they make life unpleasant in big cities.
