@@ -5,8 +5,8 @@ exerpt: "문장과 문장을 이어주는 표현"
 categories:
 - English
 tags:
-- English, Composition
-last_modified_at: 2021-05-02T14:47:00
+- English, Grammar, Composition
+last_modified_at: 2021-05-04T00:29:00
 ---
 
 작문을 할 때 알아두면 큰 도움이 되는 연결어에 대해 정리해두려고 한다.
