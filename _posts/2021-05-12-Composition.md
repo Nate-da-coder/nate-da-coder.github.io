@@ -67,10 +67,23 @@ In many countries, limited educational opportunity results in a poorly educated 
 ## Composition
 
 1. 세계적인 규모에서, 많은 저소득 국가들이 빠진 빚의 함정은 한 국가 내 가진 자와 못 가진 자 사이의 문제와 신기할 정도로 닮았다.
---> On a global scale, the pitfalls of debt that many low-income countries have run into are surprisingly similar to the problems between the haves and the have-nots in a country.
+-> On a global scale, the pitfalls of debt that many low-income countries have run into are surprisingly similar to the problems between the haves and the have-nots in a country.
 
 - 절을 구로 바꾸기!
 많은 저소득 국가들이 빠진 빚의 함정이라는 문장을 절로 구성해보았다.
 이것을 구로 바꾸어
 -> the debt trap of many low-income countries
 많은 저소득 국가들의 빚의 함정
+
+- 신기할 정도로
+eery(등골이 오싹 오싹한) 이 단어를 부사로 바꾸어 -> eerily 표현
+
+- 닮았다.
+similar도 좋지만 resembles로~
+
+본문:
+
+-> On a global scale, the debt trap of many low-income countries eerily resembles the problem between the haves and the have-nots within each country.
+
+2. 인도와 브라질을 비롯한 많은 나라는 국제 무역의 불확실성으로부터 자국 경제를 보호하기 위해 무역장벽을 세웠다.
+-->
