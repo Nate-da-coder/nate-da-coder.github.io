@@ -67,11 +67,13 @@ In many countries, limited educational opportunity results in a poorly educated 
 ## Composition
 
 1. 세계적인 규모에서, 많은 저소득 국가들이 빠진 빚의 함정은 한 국가 내 가진 자와 못 가진 자 사이의 문제와 신기할 정도로 닮았다.
--> On a global scale, the pitfalls of debt that many low-income countries have run into are surprisingly similar to the problems between the haves and the have-nots in a country.
+
+-> On a global scale, the pitfalls of debt **that** many low-income countries have run into are surprisingly **similar to** the problems between the haves and the have-nots in a country.
 
 - 절을 구로 바꾸기!
 많은 저소득 국가들이 빠진 빚의 함정이라는 문장을 절로 구성해보았다.
 이것을 구로 바꾸어
+
 -> the debt trap of many low-income countries
 많은 저소득 국가들의 빚의 함정
 
@@ -83,7 +85,80 @@ similar도 좋지만 resembles로~
 
 본문:
 
--> On a global scale, the debt trap of many low-income countries eerily resembles the problem between the haves and the have-nots within each country.
+-> On a global scale, the debt trap **of** many low-income countries eerily **resembles** the problem between the haves and the have-nots **within** each country.
 
 2. 인도와 브라질을 비롯한 많은 나라는 국제 무역의 불확실성으로부터 자국 경제를 보호하기 위해 무역장벽을 세웠다.
--->
+
+-> Many countries, **including** India and Brazil, **have built** trade barriers **to protect** their economies from uncertainties in international trade.
+
+본문:
+
+-> Many countries, **such as** India and Brazil, **have chosen to protect** their economies **from** the uncertain forces of global trade **by** putting up barriers to trade.
+
+본문에서는 무역장벽을 세운 것보다 자국경제를 보호했다라는 쪽에 더 강조하기 위해 have chosen to protect로 동사를 잡고 뒤에 by putting up ~ 으로 장벽을 세움을 표현
+
+3. 반대로 중국은 세계 경제를 향해 문을 여는 쪽을 택했다. 중국은 수출 중심의 저숙련 제조업을 기반으로 돈을 모아 교육과 인프라에 많은 투자를 할 수 있었다.
+
+-> **On the contrary**, China chose **to open** the door to the global economy. China was able to make money based on export-oriented low-skilled manufacturing and invest heavily in education and infrastructure.
+
+- On the contrary는 앞 의견에 반대의견을 낼 때 사용한다.
+
+e.g. On the contrary, she had the nerve to blame me for it.
+: 반대입장에서 그녀는 그것에 대해 나에게 비난을 했다.
+
+대조되는 이야기를 할 때는 In contrast 를 사용
+
+본문:
+
+-> **In contrast**, China chose **the path of opening its economy**(여러가지 길 중에 자국경제를 향한 쪽을 선택) to the world, **with a strategy** based on low-skill manufacturing for export,(분사 구문의 주어가 앞 주절의 내용과 불과분의 관계일 때 --> a strategy를 분사구문의 주어로 가져옴) allowing them to invest massively in infrastructure and education.
+
+전략이 그들로 하여금 투자하게 해준다.
+
+
+4. 다른 개발도상국 중에는 부채를 줄이지 않으면 경제 성장과 번영을 누릴 수 없어 보이는 국가가 많다. 더 큰 문제는 이들 나라가 빌린 부채의 대부분이 잘못된 관리나 부패로 인해 낭비된다는 것이다.
+
+-> Many other developing countries are not regarded to be able to enjoy economic growth and prosperity **without** reducing debt. **The bigger problem is that** most of the debt these countries borrowed is wasted on mismanagement or corruption.
+
+누릴 수 없어 보인다라는 것은 be not regarded to be able to로 표현
+
+본문:
+
+-> For the rest of the developing world, debt reduction **is often seen as** the only way to allow them to grow and prosper. **Making the problem much worse is that** the fact that much of the funds borrowed by developing countries **have been squandered** through mismanagement or corruption.
+
+다른 개발도상국 -> the rest of the developing world.
+낭비된다 -> have been squandered
+
+5. 가난한 나라의 경제 성장을 돕는데 가장 효과적인 방법 중 하나는 그 나라 사람들이 만든 상품이나 서비스를 외국에 팔 기회를 주는 것이다.
+
+-> One of the most effective ways **to help** economic growth **in poor** countries is to provide them with the opportunity to sell their products or services to **foreign countries**.
+
+본문:
+
+-> One of the most effective steps **in encouraging** economic development **in the poorer** countries of the world is to provide opportunities for people to sell their goods and services **abroad**.
+
+가난한 무엇을 말할때는 poor보다는 poorer이 낫다.
+old people: 절대적으로 나이든 느낌
+older people: 상대적으로 나이든 느낌
+in the poorer countries: 상대적으로 덜 사는 나라
+
+6. 제대로 된 직업교육 또한 소득 불평등 해소와 지속적인 경제 발전을 위해 꼭 필요하다.
+
+--> Proper vocational(직업과 관련된) education is also essential to address income inequality and sustainable economic development.
+
+address N and N 으로 문장을 구성하면 N과 N을 해결한다라고 해석됨
+
+본문:
+
+-> Proper job training is also a sine qua non for sustainable development and a reduction in income inequality.
+
+-- sine qua non: 필수적인(라틴어)
+
+7. 세계의 잘사는 나라에서도 교육은 불평등을 줄이는 데 가장 가능성 있는 요인이다.
+
+-> Education **is the most probable** cause in reducing inequality, even in world's well-off countries.
+
+본문:
+
+-> In the wealthy countries of the world, education is also one of **the most promising factors** in reducing inequality.
+
+가장 전망이 있는 요소 -> the most promising factors.
