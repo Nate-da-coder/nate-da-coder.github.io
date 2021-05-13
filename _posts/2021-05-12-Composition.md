@@ -67,4 +67,10 @@ In many countries, limited educational opportunity results in a poorly educated 
 ## Composition
 
 1. 세계적인 규모에서, 많은 저소득 국가들이 빠진 빚의 함정은 한 국가 내 가진 자와 못 가진 자 사이의 문제와 신기할 정도로 닮았다.
--->
+--> On a global scale, the pitfalls of debt that many low-income countries have run into are surprisingly similar to the problems between the haves and the have-nots in a country.
+
+- 절을 구로 바꾸기!
+많은 저소득 국가들이 빠진 빚의 함정이라는 문장을 절로 구성해보았다.
+이것을 구로 바꾸어
+-> the debt trap of many low-income countries
+많은 저소득 국가들의 빚의 함정
